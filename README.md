@@ -26,13 +26,13 @@ Zodra je bericht af is kan je het plaatsen door op _BERICHT PLAATSEN_ te klikken
 ## Reageren
 Wanneer je wil reageren op een bericht klik je op _reageer_.
 
-[plaatje]
+![Reageer](images/newResponse.png?raw=true)
 
 Het opstellen van een reactie werkt verder nagenoeg hetzelfde als het plaatsen van een nieuw bericht. Het enige verschil is dat het vinkje voor het ontvangen van een email standaard uit staat. Als je dus een notificatie wil hebben moet je het vinkje aan zetten.
 
 Als je het bericht waarop je reageert wilt citeren klik je op _reageer met citaat_.
 
-[plaatje]
+![Reageer met citaat](images/newResponseWithQuote.png?raw=true)
 
 Het bericht wordt dan, inclusief metadata, als quote opgenomen in je bericht. Je bent natuurlijk vrij om slechts een deel van het bericht op te nemen in je reactie. Verwijder in dat geval de niet relevante delen maar laat in elk geval de codes [qoute...] en [/quote] staan. 
 
@@ -41,14 +41,15 @@ Om op de hoogte te blijven van een discussie kan je je abonneren op die discussi
 
 Je abonneren op notificaties en/of bookmarks doe je door op _abonneer_ te klikken.
 
-[plaatje]
+![Abonneer](images/subscribe.png?raw=true)
 
 ## Moderatie
 Ieder lid van higherlevel mag berichten plaatsen en reageren op berichten. Plaatsers van berichten moeten zich echter wel aan de [forumregels](https://www.higherlevel.nl/higherlevel/forumregels) houden. Als je vindt dat een bericht de forumregels overtreedt, kan je dat melden bij de moderators. De moderators zullen je melding bekijken en, als dat nodig is, actie ondernemen.
 
 Je kan een bericht bij de moderators melden door op _Meldt dit bericht aan de moderator_ te klikken
 
-[plaatje]
+![Meldt dit bericht aan de moderator](images/notifyModerator.png?raw=true)
+
 
 Bij een melding dien je wel even aan te geven waarom je vindt dat het bericht door moderators bekeken moet worden.
 
