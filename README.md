@@ -13,11 +13,11 @@ Een nieuw bericht plaatsen kan op een aantal manieren. De gemakkelijkste manier 
 
 Je kan ook op de home page een nieuw bericht maken door op _POST EEN NIEUW BERICHT_ te klikken. Er wordt je vervolgens gevraagd in welk forum je het bericht wilt plaatsen. Deze lijst bevat echter niet alle fora.
 
-[plaatje]
+![Post een nieuw bericht](images/newPostHome.png?raw=true)
 
 Vervolgens kan je het bericht schrijven. Elk bericht heeft een onderwerp nodig en een beschrijving. Het onderwerp wordt, na plaatsing, getoond in het forumoverzicht dus zorg er voor dat het de lading van je bericht dekt. In de tekst van je bericht kan je gebruik maken van opmaak en smilies door gebruik te maken van de knoppen.
 
-[plaatje]
+![Knoppen voor opmaak](images/layoutButtons.png?raw=true)
 
 Met het vinkje onder het bericht kan je aangeven of je een email wilt ontvangen zodra er gereageerd is op je bericht. Standaard staat dit vinkje aan. Als je geen email wilt ontvangen kan je het vinkje uit zetten.
 
