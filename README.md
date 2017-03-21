@@ -44,7 +44,7 @@ Je abonneren op notificaties en/of bookmarks doe je door op _abonneer_ te klikke
 [plaatje]
 
 ## Moderatie
-Ieder lid van higherlevel mag berichten plaatsen en reageren op berichten. Plaatsers van berichten moeten zich echter wel aan de forumregels houden. Als je vindt dat een bericht de [forumregels](https://www.higherlevel.nl/higherlevel/forumregels) overtreedt kan je dat melden bij de moderators. De moderators zullen je melding bekijken en, als dat nodig is, actie ondernemen.
+Ieder lid van higherlevel mag berichten plaatsen en reageren op berichten. Plaatsers van berichten moeten zich echter wel aan de [forumregels](https://www.higherlevel.nl/higherlevel/forumregels) houden. Als je vindt dat een bericht de forumregels overtreedt, kan je dat melden bij de moderators. De moderators zullen je melding bekijken en, als dat nodig is, actie ondernemen.
 
 Je kan een bericht bij de moderators melden door op _Meldt dit bericht aan de moderator_ te klikken
 
@@ -53,7 +53,7 @@ Je kan een bericht bij de moderators melden door op _Meldt dit bericht aan de mo
 Bij een melding dien je wel even aan te geven waarom je vindt dat het bericht door moderators bekeken moet worden.
 
 # Profiel
-Ieder lid van higherlevel heeft een profiel. In je profiel kan je laten zien wie je bent, wat je onderneming te bieden heeft en wat je visie op ondernemen is. Er zijn dus veel mogelijkheden om jezelf en je onderneming te profileren. Welke informatie je in je profiel plaatst is aan jou. Slechts een klein aantal gegevens is verplicht:
+Nadat je je hebt aangemeld als lid van higherlevel krijg je een profiel. In je profiel kan je laten zien wie je bent, wat je onderneming te bieden heeft en wat je visie op ondernemen is. Er zijn dus veel mogelijkheden om jezelf en je onderneming te profileren. Welke informatie je in je profiel plaatst, is aan jou. Slechts een klein aantal gegevens is verplicht:
 
 * je forumnaam
 * je e-mailadres
@@ -65,16 +65,46 @@ In je profiel kan je een handtekening opgeven. Deze handtekening wordt onder elk
 
 Het opstellen van een handtekening werkt hetzelfde als het opstellen van een bericht. Het aantal karakters dat je mag gebruiken voor een handtekening is echter wel beperkt: maximaal 300 tekens.
 
-Op je profiel heb je helaas niet die handige knopjes tot je beschikking waarmee je handtekening op kan maken. Je moet dus uit je hoofd weten welke opmaakcodes je kan gebruiken. Een andere manier is een nieuw bericht op te stellen in een forum, bijvoorbeeld in het [Testforum](https://www.higherlevel.nl/forum/vaste-rubrieken/testforum). In de tekst van het bericht maak je met behulp van de knoppen je handtekening op. Met behulp van _BEKIJK PREVIEW_ bekijk je het resultaat en daarna kopieer en plak je de tekst van je bericht in je handtekening.
+Op je profiel heb je helaas niet die handige knopjes tot je beschikking waarmee je je handtekening kan opmaken. Je moet dus uit je hoofd weten welke opmaakcodes je kan gebruiken. 
+
+Een andere manier om je handtekening op te maken, is gebruik te maken van de opmaakfuncties van een bericht. Maak een nieuw bericht in een forum, bijvoorbeeld in het [Testforum](https://www.higherlevel.nl/forum/vaste-rubrieken/testforum). In de tekst van het bericht maak je met behulp van de knoppen je handtekening op. Met behulp van _BEKIJK PREVIEW_ bekijk je het resultaat en daarna kopieer en plak je de tekst van je bericht in je handtekening. Houd er wel rekening mee dat de tekst niet langer is dan 300 tekens, anders past het niet in je handtekening.
 
 ## Ledenoverzich
 
-# Karma Reuzen en Kneuzen
+# Reuzen Kneuzen en Karma
+Net als in veel andere communities kan je op Higherlevel.nl je waardering en je afkeuring kenbaar maken. Wanneer je een bericht erg waardeert, bijvoorbeeld omdat de schrijver uitgebreid de tijd heeft genomen om een vraag te stellen of te beantwoorden, kan je dat bericht een reus geven. Een bericht dat je niet waardeert, bijvoorbeeld omdat het van lage kwaliteit is of omdat de schrijver iemand beledigt, kan je het een kneus geven.
+
+De som van alle reuzen (+1) en alle kneuzen (-1) bepaalt je karma. 
+
+Het is overigens pas mogelijk om reuzen en kneuzen uit te delen als je voldoende berichten hebt geplaatst in de forumonderdelen. Daarnaast kan je een bericht maximaal één reus of één kneus geven.
+
+# Rangen en Sterren
+Waar de reuzen en kneuzen uitgedeeld worden door andere leden van higherlevel.nl wordt je betrokkenheid bij het platform ook automatisch beloond met sterren en een rang. Hoe meer berichten je plaatst, hoe meer sterren er op je profiel getoond worden. Het aantal sterren bepaalt ook je rang:
+
+* 1 Ster, Newbee
+* 2 sterren, Junior
+* 3 sterren, Senior
+* 4 sterren, Super Senior
+* 5 sterren, Legend
+
+Ten slotte is er een aantal rangen die je alleen kan krijgen door toebedeling door een moderator:
+
+* Expert member
+* Moderator
+* Retired moderator
+* Raad van advies
+
+De meeste rangen brengen overigens geen extra privileges mee. Als Legend kan dus niets meer of minder dan een Newbee. Een moderator heeft overigens wel meer privileges, bijvoorbeeld om discussies te sluiten en om berichten te verplaatsen naar een ander forum.
 
 # Columns
 
 # Events
 
-Todo
-- forumregels
-- speciale fora: Test, Over Higherlevel.nl, Off topic
+# Speciale fora
+Er is een aantal fora waarin de berichten niet per se over ondernemen hoeven te gaan. Dit zijn de fora [Testforum](https://www.higherlevel.nl/forum/vaste-rubrieken/testforum), [Over Higherlevel.nl](https://www.higherlevel.nl/forum/stamtafel/over-higherlevelnl) en [Off topic](https://www.higherlevel.nl/forum/stamtafel/off-topic). 
+
+Het Testforum is bedoeld om dingen uit te proberen. Je kan er bijvoorbeeld testen hoe je handtekening er uit ziet of hoe een nieuw bericht of een reactie er uit ziet. 
+
+Het Over Higherlevel.nl forum kan je gebruiken om tips, vragen en ideeën over de werking van het forum te stellen.
+
+Het Off topic forum is de plek voor wandelgangpraat, smalltalk en fun.
