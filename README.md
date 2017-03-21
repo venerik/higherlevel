@@ -1,8 +1,8 @@
 # Gebruiksaanwijzing
-Deze gebruiksaanwijzing beschrijft hoe een aantal veel gebruikte functies van Higherlevel werken.
+Deze gebruiksaanwijzing beschrijft hoe een aantal veel gebruikte functies van Higherlevel.nl werken.
 
 # Forum
-In het forum kan je berichten plaatsen en/of reageren op berichten. Probeer bij het plaatsen van een nieuw bericht het bericht in het juiste forum te plaatsen. Dat verhoogt de kans op een reactie van de juiste ondernemers en houdt het forum netjes. Berichten die in het verkeerde forum worden geplaatst, worden meestal door de moderators verplaatst naar het juiste forum maar het scheelt natuurlijk werk als je meteen het juiste forum kiest.
+In het forum kan je berichten plaatsen en/of reageren op berichten. Probeer bij het plaatsen van een nieuw bericht het bericht in het juiste forum te plaatsen. Dat verhoogt de kans op een reactie van de juiste ondernemers en houdt het forum netjes. Overigens worden berichten die in het verkeerde forum worden geplaatst, meestal vrij snel door een moderator verplaatst naar het juiste forum maar het scheelt de moderators werk als je meteen het juiste forum kiest.
 
 Houd bij het plaatsen van een bericht ook rekening met de [forumregels](https://www.higherlevel.nl/higherlevel/forumregels). Kort gezegd komen die er op neer dat je bericht over ondernemen moet gaan en dat je geen reclame voor je onderneming mag maken. 
 
@@ -30,7 +30,7 @@ Wanneer je wil reageren op een bericht klik je op _reageer_.
 
 ![Reageer](images/newResponse.png?raw=true)
 
-Het opstellen van een reactie werkt verder nagenoeg hetzelfde als het plaatsen van een nieuw bericht. Het enige verschil is dat het vinkje voor het ontvangen van een email standaard uit staat. Als je dus een notificatie wil hebben moet je het vinkje aan zetten.
+Het opstellen van een reactie werkt verder nagenoeg hetzelfde als het plaatsen van een nieuw bericht. Het enige verschil is dat het vinkje voor het ontvangen van een email standaard uit staat. Als je dus een notificatie wilt hebben moet je het vinkje aan zetten.
 
 Als je het bericht waarop je reageert wilt citeren klik je op _reageer met citaat_.
 
@@ -80,22 +80,22 @@ De som van alle reuzen (+1) en alle kneuzen (-1) bepaalt je karma.
 Het is overigens pas mogelijk om reuzen en kneuzen uit te delen als je voldoende berichten hebt geplaatst in de forumonderdelen. Daarnaast kan je een bericht maximaal één reus of één kneus geven.
 
 # Rangen en Sterren
-Waar de reuzen en kneuzen uitgedeeld worden door andere leden van higherlevel.nl wordt je betrokkenheid bij het platform ook automatisch beloond met sterren en een rang. Hoe meer berichten je plaatst, hoe meer sterren er op je profiel getoond worden. Het aantal sterren bepaalt ook je rang:
+Waar de reuzen en kneuzen uitgedeeld worden door andere leden van Higherlevel.nl wordt je betrokkenheid bij het platform ook automatisch beloond met sterren en een rang. Hoe meer berichten je plaatst, hoe meer sterren er op je profiel getoond worden. Het aantal sterren bepaalt ook je rang:
 
-* 1 Ster, Newbee
-* 2 sterren, Junior
-* 3 sterren, Senior
-* 4 sterren, Super Senior
-* 5 sterren, Legend
+* 1 ster: Newbee
+* 2 sterren: Junior
+* 3 sterren: Senior
+* 4 sterren: Super Senior
+* 5 sterren: Legend
 
-Ten slotte is er een aantal rangen die je alleen kan krijgen door toebedeling door een moderator:
+Ten slotte is er een aantal rangen die je door de moderators gegeven kan worden:
 
 * Expert member
 * Moderator
 * Retired moderator
 * Raad van advies
 
-De meeste rangen brengen overigens geen extra privileges mee. Een Legend kan dus niets meer of minder dan een Newbee. Een moderator heeft overigens wel meer privileges, bijvoorbeeld om discussies te sluiten en om berichten te verplaatsen naar een ander forum.
+De meeste rangen brengen overigens geen extra privileges met zich mee. Een Legend kan dus niet meer of minder dan een Newbee. Een moderator heeft overigens wel meer privileges, bijvoorbeeld om discussies te sluiten en om berichten te verplaatsen naar een ander forum.
 
 # Speciale fora
 Er is een aantal fora waarin de berichten niet per se over ondernemen hoeven te gaan. Dit zijn de fora [Testforum](https://www.higherlevel.nl/forum/vaste-rubrieken/testforum), [Over Higherlevel.nl](https://www.higherlevel.nl/forum/stamtafel/over-higherlevelnl) en [Off topic](https://www.higherlevel.nl/forum/stamtafel/off-topic). 
