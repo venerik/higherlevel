@@ -4,7 +4,7 @@ Deze handleiding beschrijft hoe een aantal veel gebruikte functies van Higherlev
 # Forum
 In het forum kan je berichten plaatsen en/of reageren op berichten. Probeer bij het plaatsen van een nieuw bericht het bericht in het juiste forum te plaatsen. Dat verhoogt de kans op een reactie van de juiste ondernemers en houdt het forum netjes. Berichten die in het verkeerde forum worden geplaatst, worden meestal door de moderators verplaatst naar het juiste forum maar het scheelt natuurlijk werk als je meteen het juiste forum kiest.
 
-Houd bij het plaatsen van een bericht ook rekening met de [forumregels|https://www.higherlevel.nl/higherlevel/forumregels]. Kort gezegd komen die er op neer dat je bericht over ondernemen moet gaan en dat je geen reclame voor je onderneming mag maken. 
+Houd bij het plaatsen van een bericht ook rekening met de [forumregels](https://www.higherlevel.nl/higherlevel/forumregels). Kort gezegd komen die er op neer dat je bericht over ondernemen moet gaan en dat je geen reclame voor je onderneming mag maken. 
 
 ## Nieuw bericht plaatsen
 Een nieuw bericht plaatsen kan op een aantal manieren. De gemakkelijkste manier is om naar het juiste forum te gaan en daar op _post een nieuw bericht_ te klikken. 
@@ -44,7 +44,7 @@ Je abonneren op notificaties en/of bookmarks doe je door op _abonneer_ te klikke
 [plaatje]
 
 ## Moderatie
-Ieder lid van higherlevel mag berichten plaatsen en reageren op berichten. Plaatsers van berichten moeten zich echter wel aan de forumregels houden. Als je vindt dat een bericht de [forumregels|https://www.higherlevel.nl/higherlevel/forumregels] overtreedt kan je dat melden bij de moderators. De moderators zullen je melding bekijken en, als dat nodig is, actie ondernemen.
+Ieder lid van higherlevel mag berichten plaatsen en reageren op berichten. Plaatsers van berichten moeten zich echter wel aan de forumregels houden. Als je vindt dat een bericht de [forumregels](https://www.higherlevel.nl/higherlevel/forumregels) overtreedt kan je dat melden bij de moderators. De moderators zullen je melding bekijken en, als dat nodig is, actie ondernemen.
 
 Je kan een bericht bij de moderators melden door op _Meldt dit bericht aan de moderator_ te klikken
 
@@ -65,7 +65,7 @@ In je profiel kan je een handtekening opgeven. Deze handtekening wordt onder elk
 
 Het opstellen van een handtekening werkt hetzelfde als het opstellen van een bericht. Het aantal karakters dat je mag gebruiken voor een handtekening is echter wel beperkt: maximaal 300 tekens.
 
-Op je profiel heb je helaas niet die handige knopjes tot je beschikking waarmee je handtekening op kan maken. Je moet dus uit je hoofd weten welke opmaakcodes je kan gebruiken. Een andere manier is een nieuw bericht op te stellen in een forum, bijvoorbeeld in het [Testforum|https://www.higherlevel.nl/forum/vaste-rubrieken/testforum]. In de tekst van het bericht maak je met behulp van de knoppen je handtekening op. Met behulp van _BEKIJK PREVIEW_ bekijk je het resultaat en daarna kopieer en plak je de tekst van je bericht in je handtekening.
+Op je profiel heb je helaas niet die handige knopjes tot je beschikking waarmee je handtekening op kan maken. Je moet dus uit je hoofd weten welke opmaakcodes je kan gebruiken. Een andere manier is een nieuw bericht op te stellen in een forum, bijvoorbeeld in het [Testforum](https://www.higherlevel.nl/forum/vaste-rubrieken/testforum). In de tekst van het bericht maak je met behulp van de knoppen je handtekening op. Met behulp van _BEKIJK PREVIEW_ bekijk je het resultaat en daarna kopieer en plak je de tekst van je bericht in je handtekening.
 
 ## Ledenoverzich
 
