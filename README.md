@@ -9,8 +9,7 @@ Houd bij het plaatsen van een bericht ook rekening met de [forumregels](https://
 ## Nieuw bericht plaatsen
 Een nieuw bericht plaatsen kan op een aantal manieren. De gemakkelijkste manier is om naar het juiste forum te gaan en daar op _post een nieuw bericht_ te klikken. 
 
-[plaatje]
-![plaatje](images/newPost.png?raw=true "Title")
+![Post een nieuw bericht](images/newPost.png?raw=true)
 
 Je kan ook op de home page een nieuw bericht maken door op _POST EEN NIEUW BERICHT_ te klikken. Er wordt je vervolgens gevraagd in welk forum je het bericht wilt plaatsen. Deze lijst bevat echter niet alle fora.
 
