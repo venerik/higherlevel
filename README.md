@@ -1,5 +1,5 @@
 # Gebruiksaanwijzing
-Deze handleiding beschrijft hoe een aantal veel gebruikte functies van Higherlevel werken.
+Deze gebruiksaanwijzing beschrijft hoe een aantal veel gebruikte functies van Higherlevel werken.
 
 # Forum
 In het forum kan je berichten plaatsen en/of reageren op berichten. Probeer bij het plaatsen van een nieuw bericht het bericht in het juiste forum te plaatsen. Dat verhoogt de kans op een reactie van de juiste ondernemers en houdt het forum netjes. Berichten die in het verkeerde forum worden geplaatst, worden meestal door de moderators verplaatst naar het juiste forum maar het scheelt natuurlijk werk als je meteen het juiste forum kiest.
@@ -15,10 +15,15 @@ Je kan ook op de home page een nieuw bericht maken door op _POST EEN NIEUW BERIC
 
 ![Post een nieuw bericht](images/newPostHome.png?raw=true)
 
-Vervolgens kan je het bericht schrijven. Elk bericht heeft een onderwerp nodig en een beschrijving. Het onderwerp wordt, na plaatsing, getoond in het forumoverzicht dus zorg er voor dat het de lading van je bericht dekt. In de tekst van je bericht kan je gebruik maken van opmaak en smilies door gebruik te maken van de knoppen.
+Vervolgens kan je het bericht schrijven. Elk bericht heeft een onderwerp nodig en een beschrijving. Het onderwerp wordt, na plaatsing, getoond in het forumoverzicht dus zorg er voor dat het de lading van je bericht dekt. 
 
-![Knoppen voor opmaak](images/layoutButtons.png?raw=true)
+### Bericht opmaken
+In de tekst van je bericht kan je gebruik maken van opmaak en smilies door gebruik te maken van de knoppen of van codes. Voor de meeste knoppen geldt: selecteer eerst de tekst die je wilt opmaken en klik daarna op de knop. De geselecteerde tekst wordt dan automatisch omsloten met de juiste codes. 
 
+||Knop||Code||Effect||
+|B||[b]tekst[/b]|*tekst*|
+
+### Bericht volgen
 Met het vinkje onder het bericht kan je aangeven of je een email wilt ontvangen zodra er gereageerd is op je bericht. Standaard staat dit vinkje aan. Als je geen email wilt ontvangen kan je het vinkje uit zetten.
 
 Zodra je bericht af is kan je het plaatsen door op _BERICHT PLAATSEN_ te klikken. Als je eerst wil zien hoe je bericht eruit komt te zien druk je op _BEKIJK PREVIEW_. 
@@ -71,7 +76,7 @@ Op je profiel heb je helaas niet die handige knopjes tot je beschikking waarmee 
 Een andere manier om je handtekening op te maken, is gebruik te maken van de opmaakfuncties van een bericht. Maak een nieuw bericht in een forum, bijvoorbeeld in het [Testforum](https://www.higherlevel.nl/forum/vaste-rubrieken/testforum). In de tekst van het bericht maak je met behulp van de knoppen je handtekening op. Met behulp van _BEKIJK PREVIEW_ bekijk je het resultaat en daarna kopieer en plak je de tekst van je bericht in je handtekening. Houd er wel rekening mee dat de tekst niet langer is dan 300 tekens, anders past het niet in je handtekening.
 
 # Reuzen Kneuzen en Karma
-Net als in veel andere communities kan je op Higherlevel.nl je waardering en je afkeuring kenbaar maken. Wanneer je een bericht erg waardeert, bijvoorbeeld omdat de schrijver uitgebreid de tijd heeft genomen om een vraag te stellen of te beantwoorden, kan je dat bericht een reus geven. Een bericht dat je niet waardeert, bijvoorbeeld omdat het van lage kwaliteit is of omdat de schrijver iemand beledigt, kan je het een kneus geven.
+Net als in veel andere communities kan je op Higherlevel.nl je waardering en je ongenoegen kenbaar maken. Wanneer je een bericht erg waardeert, bijvoorbeeld omdat de schrijver uitgebreid de tijd heeft genomen om een vraag te stellen of te beantwoorden, kan je dat bericht een reus geven. Een bericht dat je niet waardeert, bijvoorbeeld omdat het van lage kwaliteit is of omdat de schrijver iemand beledigt, kan je het een kneus geven.
 
 De som van alle reuzen (+1) en alle kneuzen (-1) bepaalt je karma. 
 
@@ -94,10 +99,6 @@ Ten slotte is er een aantal rangen die je alleen kan krijgen door toebedeling do
 * Raad van advies
 
 De meeste rangen brengen overigens geen extra privileges mee. Een Legend kan dus niets meer of minder dan een Newbee. Een moderator heeft overigens wel meer privileges, bijvoorbeeld om discussies te sluiten en om berichten te verplaatsen naar een ander forum.
-
-# Columns
-
-# Events
 
 # Speciale fora
 Er is een aantal fora waarin de berichten niet per se over ondernemen hoeven te gaan. Dit zijn de fora [Testforum](https://www.higherlevel.nl/forum/vaste-rubrieken/testforum), [Over Higherlevel.nl](https://www.higherlevel.nl/forum/stamtafel/over-higherlevelnl) en [Off topic](https://www.higherlevel.nl/forum/stamtafel/off-topic). 
