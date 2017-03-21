@@ -20,8 +20,12 @@ Vervolgens kan je het bericht schrijven. Elk bericht heeft een onderwerp nodig e
 ### Bericht opmaken
 In de tekst van je bericht kan je gebruik maken van opmaak en smilies door gebruik te maken van de knoppen of van codes. Voor de meeste knoppen geldt: selecteer eerst de tekst die je wilt opmaken en klik daarna op de knop. De geselecteerde tekst wordt dan automatisch omsloten met de juiste codes. 
 
-||Knop||Code||Effect||
-|B||[b]tekst[/b]|*tekst*|
+Knop|Code|Effect
+----|----|------
+B|[b]vet[/b]|**vet**
+I|[i]cursief[/i]|*cursief*
+U|[u]onderstreept[/u]|onderstreept
+S|[s]doorgehaald[/s]|~~doorgehaald~~
 
 ### Bericht volgen
 Met het vinkje onder het bericht kan je aangeven of je een email wilt ontvangen zodra er gereageerd is op je bericht. Standaard staat dit vinkje aan. Als je geen email wilt ontvangen kan je het vinkje uit zetten.
