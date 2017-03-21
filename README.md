@@ -1,4 +1,4 @@
-# Handleiding
+# Gebruiksaanwijzing
 Deze handleiding beschrijft hoe een aantal veel gebruikte functies van Higherlevel werken.
 
 # Forum
@@ -37,14 +37,14 @@ Als je het bericht waarop je reageert wilt citeren klik je op _reageer met citaa
 Het bericht wordt dan, inclusief metadata, als quote opgenomen in je bericht. Je bent natuurlijk vrij om slechts een deel van het bericht op te nemen in je reactie. Verwijder in dat geval de niet relevante delen maar laat in elk geval de codes [qoute...] en [/quote] staan. 
 
 ## Abonneren
-Om op de hoogte te blijven van een discussie kan je je abonneren op die discussie. Er bestaan twee soorten abonnementen: notificaties en bookmarks. Als je een notificatie aan zet, ontvang je een email zodra er een nieuw bericht aan de discussie is toegevoegd. Als je de bookmark aan zet, wordt de discussie op de homepage getoond.
+Om op de hoogte te blijven van een discussie kan je je abonneren op die discussie. Er bestaan twee soorten abonnementen: notificaties en bookmarks. Als je een notificatie aan zet, ontvang je een email zodra er een nieuw bericht aan de discussie is toegevoegd. Als je de bookmark aan zet, wordt de discussie op de homepage onder bookmarks getoond.
 
 Je abonneren op notificaties en/of bookmarks doe je door op _abonneer_ te klikken.
 
 ![Abonneer](images/subscribe.png?raw=true)
 
 ## Moderatie
-Ieder lid van higherlevel mag berichten plaatsen en reageren op berichten. Plaatsers van berichten moeten zich echter wel aan de [forumregels](https://www.higherlevel.nl/higherlevel/forumregels) houden. Als je vindt dat een bericht de forumregels overtreedt, kan je dat melden bij de moderators. De moderators zullen je melding bekijken en, als dat nodig is, actie ondernemen.
+Ieder lid van Higherlevel.nl mag berichten plaatsen en reageren op berichten. Plaatsers van berichten moeten zich echter wel aan de [forumregels](https://www.higherlevel.nl/higherlevel/forumregels) houden. Als je vindt dat een bericht de forumregels overtreedt, kan je dat melden bij de moderators. De moderators zullen je melding bekijken en, als dat nodig is, actie ondernemen.
 
 Je kan een bericht bij de moderators melden door op _Meldt dit bericht aan de moderator_ te klikken
 
@@ -54,7 +54,7 @@ Je kan een bericht bij de moderators melden door op _Meldt dit bericht aan de mo
 Bij een melding dien je wel even aan te geven waarom je vindt dat het bericht door moderators bekeken moet worden.
 
 # Profiel
-Nadat je je hebt aangemeld als lid van higherlevel krijg je een profiel. In je profiel kan je laten zien wie je bent, wat je onderneming te bieden heeft en wat je visie op ondernemen is. Er zijn dus veel mogelijkheden om jezelf en je onderneming te profileren. Welke informatie je in je profiel plaatst, is aan jou. Slechts een klein aantal gegevens is verplicht:
+Nadat je je hebt aangemeld als lid van Higherlevel.nl krijg je een profiel. In je profiel kan je laten zien wie je bent, wat je onderneming te bieden heeft en wat je visie op ondernemen is. Er zijn dus veel mogelijkheden om jezelf en je onderneming te profileren. Welke informatie je in je profiel plaatst, is aan jou. Slechts een klein aantal gegevens is verplicht:
 
 * je forumnaam
 * je e-mailadres
@@ -69,8 +69,6 @@ Het opstellen van een handtekening werkt hetzelfde als het opstellen van een ber
 Op je profiel heb je helaas niet die handige knopjes tot je beschikking waarmee je je handtekening kan opmaken. Je moet dus uit je hoofd weten welke opmaakcodes je kan gebruiken. 
 
 Een andere manier om je handtekening op te maken, is gebruik te maken van de opmaakfuncties van een bericht. Maak een nieuw bericht in een forum, bijvoorbeeld in het [Testforum](https://www.higherlevel.nl/forum/vaste-rubrieken/testforum). In de tekst van het bericht maak je met behulp van de knoppen je handtekening op. Met behulp van _BEKIJK PREVIEW_ bekijk je het resultaat en daarna kopieer en plak je de tekst van je bericht in je handtekening. Houd er wel rekening mee dat de tekst niet langer is dan 300 tekens, anders past het niet in je handtekening.
-
-## Ledenoverzich
 
 # Reuzen Kneuzen en Karma
 Net als in veel andere communities kan je op Higherlevel.nl je waardering en je afkeuring kenbaar maken. Wanneer je een bericht erg waardeert, bijvoorbeeld omdat de schrijver uitgebreid de tijd heeft genomen om een vraag te stellen of te beantwoorden, kan je dat bericht een reus geven. Een bericht dat je niet waardeert, bijvoorbeeld omdat het van lage kwaliteit is of omdat de schrijver iemand beledigt, kan je het een kneus geven.
@@ -95,7 +93,7 @@ Ten slotte is er een aantal rangen die je alleen kan krijgen door toebedeling do
 * Retired moderator
 * Raad van advies
 
-De meeste rangen brengen overigens geen extra privileges mee. Als Legend kan dus niets meer of minder dan een Newbee. Een moderator heeft overigens wel meer privileges, bijvoorbeeld om discussies te sluiten en om berichten te verplaatsen naar een ander forum.
+De meeste rangen brengen overigens geen extra privileges mee. Een Legend kan dus niets meer of minder dan een Newbee. Een moderator heeft overigens wel meer privileges, bijvoorbeeld om discussies te sluiten en om berichten te verplaatsen naar een ander forum.
 
 # Columns
 
